@@ -16,6 +16,9 @@ export type Theme = {
     };
     quinary: {
       default: ThemeToken<string>;
+    },
+    white: {
+      default: ThemeToken<string>;
     }
   }
 };
